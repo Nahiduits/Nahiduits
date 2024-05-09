@@ -1,9 +1,5 @@
 ￼
-GitHub Profile README Generator
 
-Star this repo19995
-
-Fork on GitHub6037
 
 <h1 align="center">Hi 👋, I'm Md Nahidul Islam</h1>
 <h3 align="center">A passionate web developer from Bangladesh</h3>
@@ -32,17 +28,10 @@ Fork on GitHub6037
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nahiduits&show_icons=true&locale=en" alt="nahiduits" /></p>
 
-Support 🙏
-Are you using the tool and happy with it to create your GitHub Profile?
-Your kind support keeps open-source tools like this free for others.
-￼
-Let the world know how you feel using this tool. 
-Tip💰
-￼
-Buy me a ko-fi
+
 ￼
 ￼
-Buy me a coffee
+
 ￼
 GitHub Profile README Generator
 Pages
